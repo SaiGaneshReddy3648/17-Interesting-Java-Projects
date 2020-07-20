@@ -1,0 +1,80 @@
+Table of Contents	
+Java Projects & Topics
+Why Java?
+Standard uses of Java
+Software Tools
+Android Applications
+Web Applications
+Scientific Applications 
+Top Java Project Ideas
+1. Airline reservation system
+2. Course management system
+3. Data visualization software
+4. Electricity billing system
+5. e-Healthcare management system
+6. Email client software
+7. Library management system
+8. Network packet sniffer
+9. Online bank management system
+10. Online medical management system
+11. Online quiz management system
+12. Online Survey System
+13. RSS feed reader
+14. Smart city project
+15. Stock management system
+16. Supply chain management system
+17. Virtual private network
+Conclusion
+How easy it is to implement these projects?
+Can I do this projects on Java Internship?
+Why do we need to build Java projects?
+Java Projects & Topics
+Java is one of the most popular and in-demand programming languages to learn. Thanks to its platform independence and multiplatform support, Java is a staple programming language of the IT and software sectors. Companies are always on the lookout for skilled Java Developers who can develop innovative Java projects. So, if you are a Java programming beginner, the best thing you can do is work on some real-time Java projects.
+
+We, here at upGrad, believe in a practical approach as theoretical knowledge alone won’t be of help in a real-time work environment. In this article, we will be exploring some interesting Java projects which beginners can work on to put their Java knowledge to test. In this article, you will find 17 top Java project ideas for beginners to get hands-on experience on Java.
+
+But first, let’s address the more pertinent question that must be lurking in your mind: why to build Java projects?
+
+When it comes to careers in software development, it is a must for aspiring developers to work on their own projects. Developing real-world projects is the best way to hone your skills and materialize your theoretical knowledge into practical experience.
+
+Amid the cut-throat competition, an aspiring Java Developers must have hands-on experience with real-world Java projects. In fact, this is one of the primary recruitment criteria for most employers today. As you start working on Java projects, you will not only be able to test your strengths and weaknesses, but you will also gain exposure that can be immensely helpful to boost your career.
+
+Why Java?
+Although Java is a relatively new programming language (it was launched in the early 1990s), it has created a unique niche in the IT industry. Java is the driving force behind some of the largest organizations, including Airbnb, Uber, eBay, Pinterest, Groupon, Spotify, Intel, Symantec, TCS, Infosys, Wipro, Flipkart, and TripAdvisor, to name a few. 
+
+The five main reasons for Java’s popularity are:
+
+Platform independence – Java runs on the WORA (Writing Once, Run Anywhere). A Java code is compiled into an intermediate format (a.k.a. bytecode), which is then executed in the JVM (Java Virtual Machine). So, any system running a JVM can execute Java code. Furthermore, JRE (Java Runtime Environment) is compatible with all the three operating systems – Linux, macOS, and Windows.
+Multi-threaded – Java has inbuilt multithreading capabilities, which means that you can develop highly interactive and responsive apps with multiple concurrent threads of activity using Java.
+Object-oriented – Java is a purely object-oriented language. Inspired by C and C++, Java extends the functionality of these languages to become a pure object-oriented programming language. Abstraction, encapsulation, inheritance, and polymorphism are some of its core OOP features. 
+Secure – When it comes to safety, Java incorporates a host of safety features into the runtime systems, including runtime checking and static type-checking at the time of compilation. With these features in place, it is pretty challenging to hack into a Java application from an external source.
+Robust – Java leverages a simple memory management model reinforced by the automatic garbage collection. Since Java objects do not require external references, Java code is robust. Besides, it also encourages developers to adopt productive programming habits for developing secure and reliable applications. The more you experiment with different java projects, the more knowledge you gain.
+Standard uses of Java
+Java is a versatile programming language, and it finds applications in many areas of software and app development. Some of the most popular applications of Java include:
+
+Software Tools
+Java is the backbone and foundation for numerous software tools. It is widely used for both open-source and commercial software projects. Eclipse, IntelliJ IDEA, BlueJ, JDeveloper, and NetBeans IDE are some of the most popular IDEs for creating Java applications and tools. 
+
+Android Applications
+Java used for writing code for Android applications. Eclipse IDE is perhaps the most extensively used development environment for writing and building Android apps. Kotlin, the programming language designed explicitly for JVM and Android platform, is also heavily inspired by Java.
+
+Web Applications
+Owing to its flexibility, reliability, and high performance, Java is an excellent choice for developing web applications. Java provides support for web applications via JSPs and Servlets. Plus, you can use Java Web Application for building dynamic websites.
+
+Read: Python vs Java: Which one should you choose?
+
+Scientific Applications 
+When it comes to scientific applications, Java is preferred over C++ since it boasts of a comprehensive suite of concurrency tools. Moreover, Java code is stable, secure, and robust, which is a prerequisite for scientific applications. 
+
+Now that you know the best features of Java and its uses let’s get into the core topic of our discussion – Java projects. After completing their graduation in Software Engineering, every aspiring Java Developer is faced with the question, “What to do next?”
+
+Our answer to that is, start looking for Java project ideas to build your very own Java projects!
+
+So, here are a few Java Projects which beginners can work on:
+
+Top Java Project Ideas
+This list of Java projects for students is suited for beginners, intermediates & experts. These Java projects will get you going with all the practicalities you need to succeed in your career as a Java developer.
+
+Further, if you’re looking for Java projects for final year, this list should get you going. So, without further ado, let’s jump straight into some Java projects that will strengthen your base and allow you to climb up the ladder.
+
+Here are some Java project ideas that should help you take a step forward in the right direction.
